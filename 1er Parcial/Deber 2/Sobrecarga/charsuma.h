@@ -1,0 +1,3 @@
+char *suma(int a,int b,int c){
+return "hola mundo";
+}
