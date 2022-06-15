@@ -1,6 +1,6 @@
 /*
 	*Universidad de las Fuerzas Armadas "ESPE"
-	*Programa que realize las acciones basicas para el manejo de una pila (ELIMINAR)
+	*Programa que realize las acciones basicas para el manejo de una cola (ELIMINAR)
 	*Arias Xavier, Escobar David
 	*Fecha de creacion: 13/06/2022
 	*Fecha de modificacion: 014/06/2022
